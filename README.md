@@ -58,7 +58,7 @@
 
 **病历努力论**
 
-南开大学软件工程实训综述ppt中，将参与实训的学生的病历作为“教学成果”展示
+南开大学软件工程实训综述ppt中，将参与实训的学生的病历作为“教学成果”展示。
 
 ![](./images/illness-records.png)
 
@@ -67,7 +67,7 @@
 
 ## 如何贡献
 
-欢迎利益相关的同学提 Pull Request（请将信息贡献到“时间线”或“其他”部分）。关于如何提 PR，见 <https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request>。
+欢迎利益相关的同学提 Pull Request（请将信息贡献到“时间线”或“其他”部分）。关于如何提 PR，见 <https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request>。请勾选上“Allow edits from maintainers”，方便维护者对格式等进行修改。
 
 相关注意事项：
 
