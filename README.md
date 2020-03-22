@@ -33,7 +33,7 @@
 
 很久以前 南开大学软件工程实训综述ppt中，将参与实训的学生的病历作为“教学成果”展示
 
-![](./images/illness-record.png)
+![](./images/illness-records.png)
 
 ### 2020.3.21 23:19 微博地图炮、人身攻击
 
