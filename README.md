@@ -57,9 +57,21 @@
 
 2020.3.21 23:19 计蒜客平台 CEO 俞昊然在微博平台发表地图炮、人身攻击言论，详见 <https://www.weibo.com/haoranyu>。
 
+**最初的微博**
+
 ![](./images/weibo.png)
 
+**最初微博的编辑历史**
+
 ![](./images/weibo-edit-history.png)
+
+**后续的微博**
+
+![](./images/weibo-2.png)
+
+**后续微博的编辑历史**
+
+![](./images/weibo-edit-history-2.png)
 
 
 ### ......
